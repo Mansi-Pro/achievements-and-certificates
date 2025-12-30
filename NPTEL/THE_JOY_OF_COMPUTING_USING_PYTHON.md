@@ -7,5 +7,5 @@ This folder contains certificates earned from NPTEL (National Programme on Techn
 - ## 📜 Certificate List
 
 - **Programming in Python**  
-  [View Certificate](Thw Joy of Computing using Python.pdf)
+  [View Certificate](The Joy of Computing using Python.pdf)
 
