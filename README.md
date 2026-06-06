@@ -5,3 +5,6 @@ This repository contains verified certificates from online courses, internships,
 
 - [NPTEL Certificates](NPTEL/The Joy of computing using Python.pdf)
 
+ ## 🔗 Microsoft Learn Profile:
+https://learn.microsoft.com/en-us/users/mansikhuha-4686
+
